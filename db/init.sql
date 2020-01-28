@@ -1,0 +1,2 @@
+CREATE TABLE users (id SERIAL PRIMARY KEY, name VARCHAR(50), age INTEGER, email VARCHAR(50));
+SELECT * FROM users;
